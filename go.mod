@@ -1,3 +1,3 @@
-module github.com/xin/testmod
+module github.com/shinchannn/testmod
 
 go 1.16
